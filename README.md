@@ -1,1 +1,5 @@
-# carul-delivery
+# carul-delivery# Carul Delivery - Цагаан идээ захиалга
+
+Монгол уламжлалт сүү, сүүн бүтээгдэхүүнүүдийг таны гэрт хүргэнэ: ааруул, тараг, цөцгий, сүү, айраг болон бусад.
+
+[Live сайт руу орох](https://gansukh1111.github.io/carul-delivery/)
